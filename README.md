@@ -21,4 +21,4 @@ Durante o curso, você aprenderá a:
    Clone este repositório para o seu ambiente local:
 
    ```bash
-   git clone https://github.com/seu-usuario/curso-logica-programacao-js.git
+   git clone https://github.com/RobertoZhou/Alura-Logica_de_Programacao
